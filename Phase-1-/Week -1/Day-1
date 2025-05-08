@@ -1,0 +1,29 @@
+# CS50x - Lecture 1: Number Systems and Representation fist 38 minutes 
+
+## Topics Covered
+
+### 1. Number Systems
+- **Decimal System (Base 10)**  
+  Example: 123  
+  Breakdown:  
+  `1 × 10² + 2 × 10¹ + 3 × 10^0 = 123`
+
+- **Binary System (Base 2)**  
+  Only uses 0 and 1  
+  Example:  
+  `7 in binary = 111`  
+  Breakdown:  
+  `1 × 2² + 1 × 2¹ + 1 × 2^0 = 4 + 2 + 1 = 7`
+
+### 2. Representation in Computers
+- Computers use the **binary (base 2)** system.
+- A **bit** is a binary digit (0 or 1).
+- To represent higher values, we use **multiple bits** (e.g., 8 bits = 1 byte).
+
+### 3. Character Encoding
+- Characters are stored using **ASCII** or **Unicode**.
+- Example:  
+  `'A' = 65 in ASCII`  
+  `Binary: 01000001`
+
+## Notes 
